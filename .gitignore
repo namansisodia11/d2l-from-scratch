@@ -5,3 +5,4 @@ __pycache__/
 venv/
 .venv/
 d2l_env/
+practice.py
